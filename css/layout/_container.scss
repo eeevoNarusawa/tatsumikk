@@ -1,0 +1,12 @@
+// main: ../default.scss
+  .l-container {
+    @include containerS();
+  }
+@media all and (min-width: $mediaM-) {
+  .l-container {
+    @include container();
+  }
+  .l-flex {
+    @include flex();
+  }
+}

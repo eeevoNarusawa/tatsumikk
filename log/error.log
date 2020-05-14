@@ -1,0 +1,19 @@
+[09-Mar-2020 10:42:43 Asia/Tokyo] PHP Warning:  fopen(header.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[09-Mar-2020 10:42:43 Asia/Tokyo] PHP Warning:  fopen(footer.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[09-Mar-2020 10:42:58 Asia/Tokyo] PHP Warning:  fopen(header.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[09-Mar-2020 10:42:58 Asia/Tokyo] PHP Warning:  fopen(footer.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[10-Mar-2020 14:55:05 Asia/Tokyo] PHP Warning:  fopen(header.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[10-Mar-2020 14:55:05 Asia/Tokyo] PHP Warning:  fopen(footer.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[10-Mar-2020 15:03:10 Asia/Tokyo] PHP Warning:  fopen(header.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[10-Mar-2020 15:03:10 Asia/Tokyo] PHP Warning:  fopen(footer.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[10-Mar-2020 15:04:04 Asia/Tokyo] PHP Warning:  fopen(header.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[10-Mar-2020 15:04:04 Asia/Tokyo] PHP Warning:  fopen(footer.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[10-Mar-2020 15:07:33 Asia/Tokyo] PHP Warning:  fopen(header.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[10-Mar-2020 15:07:33 Asia/Tokyo] PHP Warning:  fopen(footer.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[10-Mar-2020 15:21:42 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/TransmitMail.php on line 2047
+[11-Mar-2020 13:08:39 Asia/Tokyo] PHP Warning:  fopen(header.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[11-Mar-2020 13:08:39 Asia/Tokyo] PHP Warning:  fopen(footer.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[11-Mar-2020 13:21:35 Asia/Tokyo] PHP Warning:  fopen(header.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[11-Mar-2020 13:21:35 Asia/Tokyo] PHP Warning:  fopen(footer.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[11-Mar-2020 14:59:18 Asia/Tokyo] PHP Warning:  fopen(header.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78
+[11-Mar-2020 14:59:18 Asia/Tokyo] PHP Warning:  fopen(footer.html): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/www/basetest/lib/tinyTemplate.php on line 78

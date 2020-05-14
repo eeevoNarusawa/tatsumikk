@@ -1,0 +1,8 @@
+config:
+    email: jyuutaku@tatsumi-kk.co.jp,shirota@tatsumi-kk.co.jp,matsuzawa@tatsumi-kk.co.jp,kouichi@tatsumi-kk.co.jp,maebashi@tatsumi-kk.co.jp
+    subject: LPサイトからのお問い合わせ
+    auto_reply_from_email: jyuutaku@tatsumi-kk.co.jp
+    return_path: jyuutaku@tatsumi-kk.co.jp
+    auto_reply_subject: お問い合わせありがとうございます - 立見建設株式会社
+    auto_reply_name: 立見建設株式会社
+    checkmode: 0

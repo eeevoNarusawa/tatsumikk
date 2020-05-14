@@ -1,0 +1,43 @@
+// main: ../../default.scss
+html {
+  font-size: 62.5%;
+}
+body{
+  font-family: "ヒラギノ角ゴ ProN", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  font-size: 1.6rem;
+  color: #3e3a39;
+  overflow-x: hidden;
+}
+/* iphone submit css reset */
+input[type="submit"],
+input[type="button"] {
+  -webkit-box-sizing: content-box;
+  -webkit-appearance: button;
+  appearance: button;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+input[type="submit"]::-webkit-search-decoration,
+input[type="button"]::-webkit-search-decoration {
+  display: none;
+}
+input[type="submit"]::focus,
+input[type="button"]::focus {
+  outline-offset: -2px;
+}
+a{
+  text-decoration: none;
+  img:hover {
+    opacity: .8;
+  }
+}
+img {
+  width: 100%;
+  vertical-align: bottom;
+}
+
+@media screen and (min-width: $mediaM-) {
+  body {
+    font-size: 1.8rem;
+  }
+}

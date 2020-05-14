@@ -1,0 +1,82 @@
+2020-03-10 15:03:10
+Qdmail error: Qdmail Version 1.2.6b ,PHP Version 7.1.24
+Qdmail error: OS Darwin ; PHP Version 7.1.24 ; Qdmail version 1.2.6b
+php.ini status: mb_language = Japanese ; mb_internal_encoding = UTF-8 ; mb_detect_order = UTF-8,SJIS,EUC-JP,JIS,ASCII
+Qdmail Status debug: 0, log: 0, errorlog: 3
+Qdmail error: Tyr Varidate Error by regex preg_match('/[^@]+@[^@]+/') the address is -> line -> 3699
+
+2020-03-10 15:03:10
+Qdmail error: Illegal Mail AddressSystemValidete Address Method line -> 2770
+
+2020-03-10 15:03:10
+Qdmail error: Must Header is not exist 'TO' line -> 2232
+
+2020-03-10 15:03:10
+Qdmail error: No recipient line -> 2849
+
+2020-03-10 15:03:10
+Qdmail error: Error happen, see upper line -> 2194
+
+2020-03-10 15:03:10
+Qdmail error: Send Error line -> 2115
+
+2020-03-10 15:03:10
+Qdmail error: Qdmail Version 1.2.6b ,PHP Version 7.1.24
+Qdmail error: OS Darwin ; PHP Version 7.1.24 ; Qdmail version 1.2.6b
+php.ini status: mb_language = Japanese ; mb_internal_encoding = UTF-8 ; mb_detect_order = UTF-8,SJIS,EUC-JP,JIS,ASCII
+Qdmail Status debug: 0, log: 0, errorlog: 3
+Qdmail error: Tyr Varidate Error by regex preg_match('/[^@]+@[^@]+/') the address is -> line -> 3699
+
+2020-03-10 15:03:10
+Qdmail error: Illegal Mail AddressSystemValidete Address Method line -> 2770
+
+2020-03-10 15:03:10
+Qdmail error: Must Header is not exist 'FROM' line -> 2232
+
+2020-03-10 15:03:10
+Qdmail error: Error happen, see upper line -> 2194
+
+2020-03-10 15:03:10
+Qdmail error: Send Error line -> 2115
+
+2020-03-10 15:04:03
+Qdmail error: Qdmail Version 1.2.6b ,PHP Version 7.1.24
+Qdmail error: OS Darwin ; PHP Version 7.1.24 ; Qdmail version 1.2.6b
+php.ini status: mb_language = Japanese ; mb_internal_encoding = UTF-8 ; mb_detect_order = UTF-8,SJIS,EUC-JP,JIS,ASCII
+Qdmail Status debug: 0, log: 0, errorlog: 3
+Qdmail error: Tyr Varidate Error by regex preg_match('/[^@]+@[^@]+/') the address is -> line -> 3699
+
+2020-03-10 15:04:03
+Qdmail error: Illegal Mail AddressSystemValidete Address Method line -> 2770
+
+2020-03-10 15:04:03
+Qdmail error: Must Header is not exist 'TO' line -> 2232
+
+2020-03-10 15:04:03
+Qdmail error: No recipient line -> 2849
+
+2020-03-10 15:04:03
+Qdmail error: Error happen, see upper line -> 2194
+
+2020-03-10 15:04:03
+Qdmail error: Send Error line -> 2115
+
+2020-03-10 15:04:04
+Qdmail error: Qdmail Version 1.2.6b ,PHP Version 7.1.24
+Qdmail error: OS Darwin ; PHP Version 7.1.24 ; Qdmail version 1.2.6b
+php.ini status: mb_language = Japanese ; mb_internal_encoding = UTF-8 ; mb_detect_order = UTF-8,SJIS,EUC-JP,JIS,ASCII
+Qdmail Status debug: 0, log: 0, errorlog: 3
+Qdmail error: Tyr Varidate Error by regex preg_match('/[^@]+@[^@]+/') the address is -> line -> 3699
+
+2020-03-10 15:04:04
+Qdmail error: Illegal Mail AddressSystemValidete Address Method line -> 2770
+
+2020-03-10 15:04:04
+Qdmail error: Must Header is not exist 'FROM' line -> 2232
+
+2020-03-10 15:04:04
+Qdmail error: Error happen, see upper line -> 2194
+
+2020-03-10 15:04:04
+Qdmail error: Send Error line -> 2115
+

@@ -1,0 +1,156 @@
+// main: ../../default.scss
+@media screen and (max-width: $media-S) {
+  .p-confirm {
+    background-image: url('../images/bg.png');
+    background-size: cover;
+    padding: 40px 0 20px;
+    &--ttl {
+      text-align: center;
+      h2 {
+        font-size: 3rem;
+        font-weight: bold;
+        margin-bottom: 20px;
+      }
+    }
+    &--conts {
+      width: 86%;
+      background: #fff;
+      padding: 20px 5%;
+      margin: 20px 2% 40px;
+      display: block;
+      tbody,
+      tr {
+        display: block;
+        width: 100%;
+      }
+      th {
+        display: block;
+        padding: 14px 0 0;
+        font-weight: bold;
+      }
+      td {
+        display: block;
+        width: 100%;
+        padding: 4px 0 10px;
+        border-bottom: 2px dashed $brown;
+      }
+    }
+    &--btn {
+      &__back input{
+        width: 280px;
+        margin: 20px auto 10px;
+        display: block;
+        padding: 6px 0;
+        font-size: 1.6rem;
+        background: #f1f1f1;
+        text-align: center;
+        &:hover {
+          border: 1px solid #999;
+        }
+      }
+      &__send input{
+        width: 280px;
+        margin: 0 auto;
+        display: block;
+        padding: 12px 0;
+        font-size: 2rem;
+        background: $pink;
+        color: #fff;
+        text-align: center;
+        transition: .3s;
+        &:hover {
+          border: 2px solid $pink;
+          background: #fff;
+          color: $pink;
+          box-sizing: border-box;
+          padding: 11px 0;
+        }
+      }
+    }
+  }
+  .p-finish {
+    height: 100vh;
+    &--link {
+      margin-top: 60px;
+      text-align: center;
+    }
+  }
+  .p-error--link {
+    margin: 40px 0;
+  }
+}
+@media screen and (min-width: $mediaM-) {
+  .p-confirm {
+    background-image: url('../images/bg.png');
+    background-size: cover;
+    padding: 80px 0 40px;
+    &--ttl {
+      text-align: center;
+      h2 {
+        font-size: 3rem;
+        font-weight: bold;
+      }
+    }
+    &--conts {
+      width: 800px;
+      background: #fff;
+      padding: 40px 80px;
+      margin: 60px 0 40px;
+      display: block;
+      tr {
+        display: block;
+        width: 800px;
+        border-bottom: 2px dashed $brown;
+      }
+      th {
+        width: 280px;
+        padding: 10px 0;
+      }
+      td {
+        padding: 10px 0;
+      }
+    }
+    &--btn {
+      &__back input{
+        width: 280px;
+        margin: 0 auto;
+        display: block;
+        padding: 6px 0;
+        font-size: 1.6rem;
+        background: #f1f1f1;
+        text-align: center;
+        &:hover {
+          border: 1px solid #999;
+        }
+      }
+      &__send input{
+        width: 280px;
+        margin: 0 auto;
+        display: block;
+        padding: 12px 0;
+        font-size: 2rem;
+        background: $pink;
+        color: #fff;
+        text-align: center;
+        transition: .3s;
+        &:hover {
+          border: 2px solid $pink;
+          background: #fff;
+          color: $pink;
+          box-sizing: border-box;
+          padding: 11px 0;
+        }
+      }
+    }
+  }
+  .p-finish {
+    height: 100vh;
+    &--link {
+      margin-top: 60px;
+      text-align: center;
+    }
+  }
+  .p-error--link {
+    margin: 40px 0;
+  }
+}

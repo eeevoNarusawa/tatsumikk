@@ -1,0 +1,8 @@
+{
+    "config": {
+        "email": "info@example.com",
+        "subject": "［株式会社テスト］お問い合わせ",
+        "auto_reply_subject": "［株式会社テスト］お問い合わせありがとうございます",
+        "auto_reply_name": "株式会社テスト"
+    }
+}

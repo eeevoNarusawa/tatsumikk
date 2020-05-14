@@ -1,0 +1,19 @@
+// main: ../../default.scss
+@mixin container($container: 960px, $marginAuto: 0 auto) {
+  width: $container;
+  margin: $marginAuto;
+}
+@mixin containerS($container: 90%, $marginAuto: 0 auto) {
+  width: $container;
+  margin: $marginAuto;
+}
+
+@mixin flex() {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@mixin tableCell($tableCell: table-cell, $verticalAlign: middle) {
+  display: $tableCell;
+  vertical-align: $verticalAlign;
+}
